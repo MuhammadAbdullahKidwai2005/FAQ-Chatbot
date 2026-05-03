@@ -1,0 +1,30 @@
+Chat Session ID: 1001
+
+Customer: I forgot my password and cannot log in.
+Agent: Please click on "Forgot password" on the login page and follow the reset instructions.
+Customer: How long does the reset link last?
+Agent: The reset link typically expires after 24 hours.
+
+
+--------------------------------------------------
+
+Chat Session ID: 1002
+
+Customer: What happens if I exceed my storage limit?
+Agent: If you exceed your storage limit, file syncing will stop until you free up space or upgrade your plan.
+
+
+--------------------------------------------------
+
+Chat Session ID: 1003
+
+Customer: Is my data encrypted?
+Agent: Yes, Dropbox uses encryption in transit and at rest to protect user data.
+
+
+--------------------------------------------------
+
+Chat Session ID: 1004
+
+Customer: Can I cancel my subscription anytime?
+Agent: Yes, you can cancel your subscription from your account settings. Access continues until the end of your billing cycle.

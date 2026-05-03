@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+langchain-openrouter
+sentence-transformers
+pypdf
+faiss-cpu
+streamlit
+python-dotenv
+streamlit-lottie
+requests

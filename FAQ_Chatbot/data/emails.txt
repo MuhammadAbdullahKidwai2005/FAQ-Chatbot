@@ -1,0 +1,40 @@
+Subject: Refund Request for Dropbox Plus Plan
+
+Customer: Hi, I upgraded to Dropbox Plus yesterday but I want to cancel and request a refund. Can you help?
+
+Support: Hello, refunds are available depending on your region and purchase method. Please confirm your order ID and the date of purchase.
+
+Customer: Order ID 847392, purchased 2 days ago via credit card.
+
+Support: Thank you. Since the purchase was within the eligible refund window, we have initiated the refund. It may take 5-7 business days to reflect in your account.
+
+
+--------------------------------------------------
+
+Subject: Account Suspension Notice
+
+Customer: I received an email saying my account was suspended. Why?
+
+Support: Your account was flagged for violating Dropbox Terms of Service related to prohibited content sharing.
+
+Customer: Can I recover my files?
+
+Support: If the suspension is temporary, access may be restored after review. Please submit an appeal through the account recovery form.
+
+
+--------------------------------------------------
+
+Subject: Data Privacy Concern
+
+Customer: Does Dropbox sell my personal data?
+
+Support: Dropbox does not sell personal data. Information is processed in accordance with the Privacy Policy and may be shared with trusted service providers.
+
+
+--------------------------------------------------
+
+Subject: Storage Upgrade Inquiry
+
+Customer: How much storage do I get with Dropbox Plus?
+
+Support: Dropbox Plus provides 2 TB of storage along with additional features such as file recovery and priority email support.
